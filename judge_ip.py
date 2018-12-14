@@ -1,4 +1,6 @@
 # -*-coding:utf-8-*-
+
+# 判断IP地址是否有效IP
 import re
 
 def judge_ip_1(ip_path):
